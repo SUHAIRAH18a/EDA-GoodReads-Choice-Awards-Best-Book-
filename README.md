@@ -1,4 +1,4 @@
-# EDA-GoodReads-Choice-Awards-Best-Book-
+# Suhairah Samiran - Data Analyst Portfolio
 
 **OBJECTIVE** : To analyze what readers like the most in terms of ratings and reviews.
 
