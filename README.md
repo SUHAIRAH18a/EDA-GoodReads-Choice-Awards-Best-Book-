@@ -14,6 +14,8 @@ I am confident that my data analytics skills and experience make me an ideal can
 
 ## Table of Contents
 - [About](https://github.com/SUHAIRAH18a/Portfolio/blob/main/README.md#about)
+- PortFolio Project
+    -Python
 
 
 
